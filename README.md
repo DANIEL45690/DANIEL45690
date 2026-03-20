@@ -1,100 +1,107 @@
+# 👨‍💻 DANIEL45690 &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CBABA&center=true&vCenter=true&width=435&lines=%F0%9F%92%BB+3%2C000%2B+Projects+Coded;🚀+Won%27t+Stop+Coding;💎+Join+My+TG+Channel;🔥+Full-Stack+Developer;🌟+Open+To+Collaborations!" alt="Typing SVG" />
+
 <div align="center">
 
-  <!-- 🔥 ЭПИЧНЫЙ СЕРЫЙ БАННЕР (100% кастом) -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1F1F1F&height=280&section=header&text=DANIEL45690&fontSize=75&fontColor=CCCCCC&desc=concole_hack%20•%20Мастер%20тёмных%20утилит&descAlign=center&descSize=28&textBg=false&animation=fadeIn" width="100%" alt="Banner">
+![Banner](https://github.com/DANIEL45690/DANIEL45690/blob/main/github-profile-banner.png?raw=true) <!-- Placeholder; user can replace with image -->
 
-  <h1>
-    <span style="color:#CCCCCC;">👾</span> <strong>DANIEL LAMSKOV</strong> 
-    <span style="font-size:0.7em; color:#808080;">(concole_hack)</span>
-  </h1>
+</div>
 
-  <h3>
-    <span style="color:#808080; font-family:monospace;">
-      Самара 🇷🇺 • PyQt5 GUI • Python • HTML/CSS/JS • Хакерские утилиты 2026
-    </span>
-  </h3>
-
-  <p><strong>Создаю инструменты, от которых захватывает дух. Минимализм. Скорость. Тьма.</strong></p>
-
-  <!-- Социалки в идеальном сером стиле -->
-  <a href="https://dimatertica6-web.github.io/index.html/">
-    <img src="https://img.shields.io/badge/Website-1F1F1F?style=for-the-badge&logo=webflow&logoColor=CCCCCC&labelColor=808080" alt="Website">
-  </a>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Telegram-Join%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc" alt="Telegram Channel"/>
   <a href="https://t.me/+licZV1Ujehk0YWFi">
-    <img src="https://img.shields.io/badge/Telegram-1F1F1F?style=for-the-badge&logo=telegram&logoColor=CCCCCC&labelColor=808080" alt="Telegram">
+    <img src="https://img.shields.io/badge/⭐%20Main%20TG%20Channel-Click%20Here!-blueviolet?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://fuckleetcode.vercel.app">
-    <img src="https://img.shields.io/badge/LeetCode-1F1F1F?style=for-the-badge&logo=leetcode&logoColor=CCCCCC&labelColor=808080" alt="LeetCode">
-  </a>
-
-  <br><br>
-
-  <!-- 🔥 УЛУЧШЕННЫЕ СТАТИСТИКИ В СЕРЫХ ТОНАХ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DANIEL45690&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F1F1F&title_color=CCCCCC&text_color=AAAAAA&ring_color=808080&include_all_commits=true" height="200">
+  <img src="https://img.shields.io/badge/Projects-3000%2B-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUiIGhlaWdodD0iMTUiIHZpZXdCb3g9IjAgMCAxNSAxNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iNy41IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiM2QkJDNEMiLz4KPHBhdGggZD0iTTQgN0w3LjUgMTRMNy41IDdNNy41IDdMMTEgN00xMSAxNEw3LjUgN00xLjUgNyBMNCAxNEw3LjUgNyIvPgo8L3N2Zz4K" alt="3000+ Projects"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DANIEL45690&theme=tokyonight&hide_border=true&background=1F1F1F&stroke=808080&ring=CCCCCC&fire=FF6666&currStreakNum=CCCCCC" height="200">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL45690&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F1F1F&title_color=CCCCCC&text_color=AAAAAA&langs_count=8" height="200">
-
-  <br><br>
-  <img src="https://github-readme-trophies.vercel.app/?username=DANIEL45690&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=6&row=2&title_color=CCCCCC&text_color=AAAAAA" alt="Trophies">
-
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=DANIEL45690&color=808080&style=for-the-badge&label=Просмотры%20профиля&labelColor=1F1F1F" alt="Views">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DANIEL45690&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=fcfcfc&text_color=d2d5da&count_color=e95532)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL45690&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f)
 
 </div>
 
----
+## 🚀 About Me
 
-### 🛠️ ТЕХНОЛОГИИ (чисто серый минимализм)
+Привет! Я **DANIEL45690** – **Full-Stack Developer** с **более 3000+ проектов** за плечами! 🚀
+
+Я начал кодить много лет назад и **не остановлюсь никогда**! 💪 Каждый день новые идеи, новые вызовы, новые победы. От простых скриптов до сложных веб-приложений, AI-ботов, игр и enterprise-систем – я делал **ВСЁ**!
+
+**Почему присоединиться ко мне?**
+- Ежедневные туториалы и код
+- Готовые проекты для скачивания
+- Live-кодинг и разборы ошибок
+- Коллаборации и заказы
+- 🔥 **Эксклюзивный контент в TG!**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python&logoColor=CCCCCC&labelColor=808080" alt="Python">
-  <img src="https://img.shields.io/badge/PyQt5-1F1F1F?style=flat-square&logo=qt&logoColor=CCCCCC&labelColor=808080" alt="PyQt5">
-  <img src="https://img.shields.io/badge/HTML5-1F1F1F?style=flat-square&logo=html5&logoColor=CCCCCC&labelColor=808080" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1F1F1F?style=flat-square&logo=css3&logoColor=CCCCCC&labelColor=808080" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-1F1F1F?style=flat-square&logo=javascript&logoColor=CCCCCC&labelColor=808080" alt="JS">
-  <img src="https://img.shields.io/badge/SQL-1F1F1F?style=flat-square&logo=postgresql&logoColor=CCCCCC&labelColor=808080" alt="SQL">
-  <img src="https://img.shields.io/badge/Windows-1F1F1F?style=flat-square&logo=windows&logoColor=CCCCCC&labelColor=808080" alt="Windows">
-  <img src="https://img.shields.io/badge/Linux-1F1F1F?style=flat-square&logo=linux&logoColor=CCCCCC&labelColor=808080" alt="Linux">
+  
+```
+  /\
+ /  \
+/____\
+|    |
+| TG |
+|____|
+```
+**Основной канал: https://t.me/+licZV1Ujehk0YWFi** ⭐
+
 </div>
 
----
-
-### 🔥 ИЗБРАННЫЕ ПРОЕКТЫ (6 пиннед шедевров за 2 дня!)
-
-| Проект | Описание | Стек | Ссылка |
-|--------|----------|------|--------|
-| **Screen-Demo-Studio v2.0.0** | Профессиональный рекордер + демонстрация экрана | PyQt5 • Python | [→ Открыть](https://github.com/DANIEL45690/Screen-Demo-Studio-v2.0.0-by-concole_hack) |
-| **bank-GOLD** | Полноценный банковский симулятор с YuKassa и статистикой | PyQt5 • Python | [→ Открыть](https://github.com/DANIEL45690/bank-GOLD) |
-| **EXCEL-3.0** | Улучшенная копия Excel с оптимизацией под скорость | PyQt5 • Python | [→ Открыть](https://github.com/DANIEL45690/EXCEL-3.0) |
-| **TOOLKU v2.0** | Радужный конвертер .py → .exe с автозависимостями | PyQt5 • Python | [→ Открыть](https://github.com/DANIEL45690/TOOLKU-v2.0) |
-| **Vision-Trainer** | 10 уровней тренировки зрения (интерактив) | HTML • CSS • JS | [→ Открыть](https://github.com/DANIEL45690/Vision-Trainer) |
-| **Standoff-2-Account-Recovery-Tool** | Профессиональный менеджер аккаунтов Standoff 2 | PyQt5 • Python | [→ Открыть](https://github.com/DANIEL45690/Standoff-2-Account-Recovery-Tool) |
-
-**+ 15+ свежих утилит в стиле concole_hack** (bluetooth-manager, linux-util-v2, cursor-creator, ZIP-Virus-Scanner и т.д.)
-
----
-
-### 📊 Факты обо мне (на 12 марта 2026)
-
-- **Присоединился к GitHub:** 10 марта 2026 (всего 2 дня назад!)  
-- **Пиннед проектов:** 6  
-- **Активность:** 130+ коммитов за последние дни  
-- **Стиль:** Тёмный минимализм + максимальная функциональность  
-- **Цель:** Сделать жизнь проще, быстрее и красивее
-
----
-
-### 📬 Свяжись со мной
-
-- **Telegram** → [t.me/+licZV1Ujehk0YWFi](https://t.me/+licZV1Ujehk0YWFi)  
-- **Сайт** → [dimatertica6-web.github.io](https://dimatertica6-web.github.io/index.html/)  
-- **LeetCode демо** → [fuckleetcode.vercel.app](https://fuckleetcode.vercel.app)
-
----
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <p><em>«concole_hack» — это не ник, это состояние души.</em></p>
-  <p><strong>Made with pure dark energy</strong> • Самара • 2026</p>
+
+| Frontend 🎨 | Backend ⚙️ | Databases 🗄️ | DevOps ☁️ | Tools & Others 🧰 |
+|-------------|-------------|--------------|-----------|------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
 </div>
+
+## 🔥 Featured Projects (из 3000+)
+
+> **Примеры некоторых проектов:**
+> - **AI ChatBot** – Telegram бот с GPT-4 интеграцией [код в TG]
+> - **E-Commerce Platform** – Full-stack магазин с React + Node
+> - **Game Engine** – 2D игра на Canvas/JS
+> - **3000+ других** – скрипты, боты, сайты, API...
+
+Полный список и исходники **в моем Telegram канале**! 👇
+
+<a href="https://t.me/+licZV1Ujehk0YWFi">
+  <img src="https://img.shields.io/badge/📱%20Join%20Now!-Get%203000%2B%20Projects!-teal?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc" width="250" alt="Join TG"/>
+</a>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Daniel's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DANIEL45690&theme=react-dark&hide_border=true)](https://github.com/DANIEL45690)
+
+</div>
+
+## 🤝 Let's Connect!
+
+- **Telegram (Main)**: [https://t.me/+licZV1Ujehk0YWFi](https://t.me/+licZV1Ujehk0YWFi) ⭐ **Подписывайся!**
+- **GitHub**: [DANIEL45690](https://github.com/DANIEL45690)
+
+<div align="center">
+
+```
+💌 Привет от DANIEL45690!
+   Кодю 24/7 • 3000+ проектов • Не остановлюсь! 🔥
+```
+
+**Спасибо за визит! 🌟**
+
+</div>
+
+![Footer](https://img.shields.io/badge/Made%20with%20❤️%20for%20GitHub-181717?style=social&logo=github&label=Powered%20By)
+
+<!-- Star History -->
+<div align="center"><a href="https://star-history.com/#DANIEL45690&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DANIEL45690&type=Date">
+    <img alt="Star History" src="https://api.star-history.com/svg?repos=DANIEL45690&type=Date">
+  </picture>
+</a></div>
+
+
