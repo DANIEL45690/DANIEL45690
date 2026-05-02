@@ -1,28 +1,109 @@
+<div align="center">
+
+# 👋 Hello, I'm DANIEL45690
+<img src="https://vercel.app" width="100%"/>
+
+[![Typing SVG](https://herokuapp.com)](https://git.io)
+
+</div>
+
+### 📊 System Status: Overview
+
+| Metric | Status | Activity |
+| :--- | :--- | :--- |
+| **Location** | Samara, Russia | 📍 |
+| **Availability** | Open to Projects | ✅ |
+| **Current Focus** | System Architecture | 🚀 |
+| **Experience** | Polyglot Developer | 💻 |
 
 ---
 
-### 🌐 Connect & Explore
+### 🛠️ Technical Arsenal
+
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Low Level** | `C` `C++` `Shell` `PowerShell` |
+| **Application** | `Python` `Java` `JavaScript` |
+| **Web Tech** | `Node.js` `HTML5` `CSS3` |
+| **Tools** | `Git` `Docker` `Linux` |
+
+---
+
+### 💻 Programming Ecosystem
+
+| Language | Proficiency | Main Interest |
+| :--- | :--- | :--- |
+| **Python** | Advanced | Automation / Backend |
+| **C++ / C** | Intermediate | Systems / Performance |
+| **Node.js** | Advanced | Server-side / APIs |
+| **Shell** | Expert | Scripting / DevOps |
+| **Java** | Intermediate | Cross-platform Apps |
+
+---
+
+### 🌐 Web Development Stack
+
+| Frontend | Backend | Styles |
+| :--- | :--- | :--- |
+| React / Vanilla JS | Express / Node.js | Tailwind / Pure CSS |
+| DOM Manipulation | RESTful APIs | Responsive Design |
+| Web Vitals | Middleware | Modern UI/UX |
+
+---
+
+### 📈 GitHub Statistics
+
+| Category | Visualization |
+| :--- | :--- |
+| **Contribution Graph** | <img src="https://herokuapp.com" width="100%"/> |
+| **Language Stats** | <img src="https://vercel.app" width="100%"/> |
+| **Profile Summary** | <img src="https://vercel.app" width="100%"/> |
+
+---
+
+### 📂 Active Development
+
+| Project Type | Stack | Goal |
+| :--- | :--- | :--- |
+| **Core Systems** | C / C++ | Performance Optimization |
+| **Automation** | Python / Shell | Efficiency & Speed |
+| **Web Services** | Node.js / CSS | User Experience |
+| **Tooling** | PowerShell | OS Customization |
+
+---
+
+### ⚙️ Development Environment
+
+| Component | Preference |
+| :--- | :--- |
+| **OS** | Linux / Windows (WSL2) |
+| **Editor** | VS Code / Vim |
+| **Terminal** | Zsh / PowerShell Core |
+| **Version Control** | Git / GitHub |
+
+---
+
+### 📫 Connect with me
 
 | Platform | Link |
-|:---------|:-----|
-| **GitHub** | [github.com/DANIEL45690](https://github.com/DANIEL45690?tab=repositories) |
-| **Portfolio** | *Coming soon* |
-| **Email** | daniel45690@proton.me |
+| :--- | :--- |
+| **GitHub** | [DANIEL45690](https://github.com/DANIEL45690) |
+| **Contact** | [Message Me](mailto:your-email@example.com) |
 
 ---
 
-### 📌 Profile Views
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DANIEL45690&color=2D9C7A&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+### 🏆 Top Achievements
 
----
+| Year | Milestone |
+| :--- | :--- |
+| 2024 | Mastered Shell & PowerShell automation |
+| 2025 | Advanced Node.js Ecosystem integration |
+| 2026 | Full-scale C++ Systems development |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DANIEL45690/DANIEL45690/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<img src="https://vercel.app." />
 
-<p align="center">
-  <i>⚡ 24/7 coding • Minimalist architecture • Open source enthusiast ⚡</i>
-</p>
+</div>
+
